@@ -37,4 +37,3 @@ This image shows the comparison between the accuracy of the training set and the
 This image shows the comparison between the loss of the training set and the validation set (testing set).
 
 
-<!-- (Insert accuracy and loss graphs here) -->
