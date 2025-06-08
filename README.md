@@ -29,7 +29,9 @@ The model demonstrates strong performance and generalization on the validation s
 
 Below are the plots showing the accuracy and loss curves for both the training and validation sets during training:
 ![image](https://github.com/user-attachments/assets/49d65901-af46-4190-9d94-2dc517cabd35)
+This image shows the comparison between the accuracy of the training set and the validation set (testing set).
 ![image](https://github.com/user-attachments/assets/f2b98627-ae40-4907-816f-05f94cd194bd)
+This image shows the comparison between the loss of the training set and the validation set (testing set).
 
 
 <!-- (Insert accuracy and loss graphs here) -->
